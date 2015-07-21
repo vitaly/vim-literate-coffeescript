@@ -1,3 +1,8 @@
+> NOTE: this repository was originally hosted at
+> https://github.com/mintplant/vim-literate-coffeescript but was removed at
+> some point. I'm not a maintainer, just providing a copy for the sake of
+> inclusion in my own https://github.com/astrails/dotvim
+
 `vim-literate-coffeescript` adds syntax highlighting and indentation support for
 [Literate CoffeeScript](http://coffeescript.org/#literate) to the vim text
 editor.
